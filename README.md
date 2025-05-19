@@ -1,6 +1,6 @@
 DataAnalytics-Assessment
 
-This repository contains SQL queries written for a Data Analyst Assessment for Cowry Wise, solving four business problems using a relational database in Microsoft SQL Server.
+This repository contains SQL queries written for a Data Analyst Assessment for Cowrywise, solving four business problems using a relational database in Microsoft SQL Server.
 
 
 The queries address the following business problems:
