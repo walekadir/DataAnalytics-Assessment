@@ -1,3 +1,6 @@
+
+Find accounts with no transactions in the last 365 days
+
 SELECT
     id AS plan_id,
     owner_id,
