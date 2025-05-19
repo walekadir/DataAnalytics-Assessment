@@ -1,3 +1,4 @@
+Identify customers with both funded savings and investment plans, sorted by total deposits
 SELECT
     u.id AS owner_id,
     u.name,
@@ -18,3 +19,4 @@ HAVING
     COUNT(DISTINCT sa.id) >= 1 AND COUNT(DISTINCT pl.id) >= 1
 ORDER BY
     total_deposits DESC;
+
