@@ -1,4 +1,3 @@
-
 Find accounts with no transactions in the last 365 days
 
 SELECT
