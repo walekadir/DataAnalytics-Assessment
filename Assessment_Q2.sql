@@ -1,3 +1,4 @@
+Calculate transaction frequency per customer and categorize
 WITH TransactionCounts AS (
     SELECT
         owner_id,
@@ -27,3 +28,4 @@ GROUP BY
     END
 ORDER BY
     avg_transactions_per_month DESC;
+
